@@ -581,25 +581,25 @@
           "group_by": false,
           "label": "Datasheet",
           "name": "Datasheet",
-          "show": true
+          "show": false
         },
         {
           "group_by": false,
           "label": "BOM-ACCEPTALTERNATIVES",
           "name": "BOM-ACCEPTALTERNATIVES",
-          "show": true
+          "show": false
         },
         {
           "group_by": false,
           "label": "BOM-COMMENTS",
           "name": "BOM-COMMENTS",
-          "show": true
+          "show": false
         },
         {
           "group_by": false,
           "label": "BOM-DESCRIPTION",
           "name": "BOM-DESCRIPTION",
-          "show": true
+          "show": false
         },
         {
           "group_by": false,
@@ -623,13 +623,13 @@
           "group_by": false,
           "label": "BOM-PACKAGE",
           "name": "BOM-PACKAGE",
-          "show": true
+          "show": false
         },
         {
           "group_by": false,
           "label": "BOM-RSNO",
           "name": "BOM-RSNO",
-          "show": true
+          "show": false
         },
         {
           "group_by": false,
